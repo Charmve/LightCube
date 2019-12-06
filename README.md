@@ -15,4 +15,4 @@ Key words：Light cube; voice control; STM32; full-color display; naked eye 3D
 
 *School of Physical Science and Technology, Yangzhou University, Yangzhou 225000, China
 
-本文档将会持续更新。  this document is going to be uploaded for a long time
+本文档将会持续更新。  This document is going to be uploaded for a long time...
