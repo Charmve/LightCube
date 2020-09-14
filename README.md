@@ -9,7 +9,7 @@
 
 <br>
 Design of a 3D Dynamic Display System Based on Voice Control
-ZHANG Wei* 
+ZHANG Wei* <p>
 
 **Abstract：** Light Cube, as a new type of naked eye 3D display technology, can achieve the naked eye 3D display without wearing any viewing aids. Especially, it brings a new visual experience to people and has become a research hot spot in research organizations home and abroad for the past few years. In this paper, a 3D dynamic display system based on voice control is presented, which solves the existing light cube display color single, low resolution, poor human-computer interaction performance, complex design, high cost, etc. The LD3320 non-specific vocal speech recognition chip and STM32F407 are used as controller core to realize the full-color high-order voice controlled light cube. The voice recognition module sends the voice recognition result to the STM32 via UART serial port as a control command for controlling the display animation and working mode of the optical cube, and playing the background music with the speaker provided by the module. The SM16126 cascade-to-cascade drive output circuit design reduces system power consumption and provides a viable implementation for high-order optical cube designs. Finally, tests show that this light cube display system has fast voice command recognition response speed, high recognition accuracy and stable work performance, which can make people's life more intelligent and user-friendly.
 Key words：Light cube; voice control; STM32; full-color display; naked eye 3D
