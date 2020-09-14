@@ -23,9 +23,6 @@ Key words：Light cube; voice control; STM32; full-color display; naked eye 3D
 <br>
 <br>
 
-<div align=center><img src="https://image.jiqizhixin.com/uploads/editor/d8595d93-e8c9-4abf-91f4-105384736912/%E5%9B%BE%E7%89%8712.jpg" height="330" width="330"></div>
-
-
-[![Watch the video][<div align=center><img src="https://img-blog.csdnimg.cn/20200706154355286.png"></div>](https://www.youtube.com/watch?v=-jAfvdNz-kE)
+[<div align=center><img src="https://img-blog.csdnimg.cn/20200706154355286.png"></div>](https://www.youtube.com/watch?v=-jAfvdNz-kE)
 
 (点击图片可以查看视频 https://www.youtube.com/watch?v=-jAfvdNz-kE)
