@@ -1,5 +1,6 @@
 # -Design of a 3D Dynamic Display System Based on Voice Control-
-<p align="center" size = 24><strong>一种基于语音控制的3D动态显示系统设计</strong></p>
+<br>
+<p align="center" size = "24"><strong>一种基于语音控制的3D动态显示系统设计</strong></p>
 <p align="center">张 伟</p>
 <p align="center">（扬州大学 物理科学与技术学院，江苏扬州 225000）</p
 
@@ -26,9 +27,9 @@
 
 <br>
 
-本文档将会持续更新。  This document is going to be uploaded for a long time...
-
-<br>
-<br>
-
 *School of Physical Science and Technology, Yangzhou University, Yangzhou 225000, China
+
+<br>
+<br>
+
+本文档将会持续更新。  This document is going to be uploaded for a long time...
