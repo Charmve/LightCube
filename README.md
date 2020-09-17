@@ -1,6 +1,6 @@
 # -Design of a 3D Dynamic Display System Based on Voice Control-
 <br>
-<p align="center" size = "24"><strong>一种基于语音控制的3D动态显示系统设计</strong></p>
+<p align="center" style="font-size:large"><strong>一种基于语音控制的3D动态显示系统设计</strong></p>
 <p align="center">张 伟</p>
 <p align="center">（扬州大学 物理科学与技术学院，江苏扬州 225000）</p
 
@@ -10,7 +10,7 @@
 <p>关键词：光立方；语音控制；STM32；全彩显示；裸眼3D</p>
 
 <br>
-<p align="center"><strong>Design of a 3D Dynamic Display System Based on Voice Control</strong></p>
+<p align="center" style="font-size:large"><strong>Design of a 3D Dynamic Display System Based on Voice Control</strong></p>
 <p align="center">ZHANG Wei* </p>
 
 <p><b>Abstract：</b></p> 
@@ -29,7 +29,3 @@
 
 *School of Physical Science and Technology, Yangzhou University, Yangzhou 225000, China
 
-<br>
-<br>
-
-本文档将会持续更新。  This document is going to be uploaded for a long time...
