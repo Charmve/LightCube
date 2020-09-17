@@ -1,0 +1,5 @@
+1:00 00 00 00 00 FF FF FF FF FF FF FF FF FF FF:ni duo shao sui:多少岁.mp3
+2:00 00 00 00 00 FF FF FF FF FF FF FF FF FF FF:yi jia yi:一加一.mp3
+3:00 00 00 00 00 FF FF FF FF FF FF FF FF FF FF:shi jia shi wu:十加十五.mp3
+4:00 00 00 00 00 FF FF FF FF FF FF FF FF FF FF:er shi cheng san:二十乘三.mp3
+8:00 00 00 00 00 FF FF FF FF FF FF FF FF FF FF:yi xiao shi duo shao miao:小时秒.mp3

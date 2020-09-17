@@ -1,0 +1,26 @@
+WAV MP3 Converter
+Software License Agreement
+Copyright (C) 2006-2011 Hoo Technologies
+All Rights Reserved
+
+
+NOTICE TO USERS: CAREFULLY READ THE FOLLOWING LEGAL AGREEMENT.  USE OF THE SOFTWARE PROVIDED WITH THIS AGREEMENT (THE "SOFTWARE") CONSTITUTES YOUR ACCEPTANCE OF THESE TERMS.  IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT INSTALL AND/OR USE THIS SOFTWARE.  USER'S USE OF THIS SOFTWARE IS CONDITIONED UPON COMPLIANCE BY USER WITH THE TERMS OF THIS AGREEMENT.
+
+1. TRIAL LICENSE GRANT. You may use this SOFTWARE solely for evaluation purposes without charge for a period of 30 days. You are free to distribute exact copies of the SOFTWARE to anyone. You are prohibited from selling, or requesting donations, for any copies of the SOFTWARE you distribute. You must include a copy of this license with any copy of the SOFTWARE. You may not remove or alter any identification, proprietary notice, label, or trademarks which appear on or in the SOFTWARE. Continued use of the SOFTWARE after evaluation period requires purchase of a license.
+
+2. REGISTERED LICENSE GRANT.  Hoo Technologies grants you a license to use one copy of the version of this SOFTWARE on any one system for as many licenses as you purchase.  "You" means the company, entity or individual whose funds are used to pay the license fee.  "Use" means storing, loading, installing, executing or displaying the SOFTWARE.  You may not modify the SOFTWARE or disable any licensing or control features of the SOFTWARE except as an intended part of the SOFTWARE's programming features. This license is not transferable to another organization or individual.
+
+3. OWNERSHIP.  The SOFTWARE is owned and copyrighted by Hoo Technologies.  Your license confers no title or ownership in the SOFTWARE and should not be construed as a sale of any right in the SOFTWARE.
+
+4. COPYRIGHT.  The SOFTWARE is protected by United States copyright law and international treaty provisions. You acknowledge that no title to the intellectual property in the SOFTWARE is transferred to you.  You further acknowledge that title and full ownership rights to the SOFTWARE will remain the exclusive property of Hoo Technologies and you will not acquire any rights to the SOFTWARE except as expressly set forth in this license. You agree that any copies of the SOFTWARE will contain the same proprietary notices which appear on and in the SOFTWARE.
+
+5. REVERSE ENGINEERING. You agree that you will not attempt to reverse compile, modify, translate, or disassemble the SOFTWARE in whole or in part.
+
+6. NO OTHER WARRANTIES.  HOO TECHNOLOGIES DOES NOT WARRANT THAT THE SOFTWARE IS ERROR FREE. HOO TECHNOLOGIES DISCLAIMS ALL OTHER WARRANTIES WITH RESPECT TO THE SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES OR LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY MAY LAST, OR THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY TO YOU.  THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS AND YOU MAY ALSO HAVE OTHER RIGHTS WHICH VARY FROM JURISDICTION TO JURISDICTION.
+
+7. SEVERABILITY.  In the event of invalidity of any provision of this license, the parties agree that such invalidity shall not affect the validity of the remaining portions of this license.
+
+8. NO LIABILITY FOR CONSEQUENTIAL DAMAGES.  IN NO EVENT SHALL HOO TECHNOLOGIES OR ITS SUPPLIERS BE LIABLE TO YOU FOR ANY CONSEQUENTIAL, SPECIAL, INCIDENTAL OR INDIRECT DAMAGES OF ANY KIND ARISING OUT OF THE DELIVERY, PERFORMANCE OR USE OF THE SOFTWARE, EVEN IF HOO TECHNOLOGIES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL HOO TECHNOLOGIES' LIABILITY FOR ANY CLAIM, WHETHER IN CONTRACT, TORT OR ANY OTHER THEORY OF LIABILITY, EXCEED THE LICENSE FEE PAID BY YOU, IF ANY.
+
+9. ENTIRE AGREEMENT.  This is the entire agreement between you and Hoo Technologies which supersedes any prior agreement or understanding, whether written or oral, relating to the subject matter of this license.
+

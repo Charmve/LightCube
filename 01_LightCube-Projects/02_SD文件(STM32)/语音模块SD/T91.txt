@@ -1,0 +1,4 @@
+1:FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF:hou zi lao yue:猴子捞月.mp3
+2:FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF:san ge he shang:三个和尚.mp3
+3:FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF:lang lai le:狼来了.mp3
+89:FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF:bu ting le:exit.mp3

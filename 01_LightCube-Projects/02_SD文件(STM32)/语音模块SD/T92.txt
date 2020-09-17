@@ -1,0 +1,4 @@
+1:FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF:ni hui chao shen me cai:会做什么菜.mp3
+2:FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF:hong shao rou hui ma:不会.mp3
+3:FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF:na lai bei pao mian:泡面.mp3
+89:FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF:bu chi le:exit.mp3
