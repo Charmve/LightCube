@@ -23,7 +23,7 @@
 
 [<div align=center><img src="https://img-blog.csdnimg.cn/20200706154355286.png"></div>](https://www.youtube.com/watch?v=-jAfvdNz-kE)
 
-<p>(click this picture to watch a video https://www.youtube.com/watch?v=-jAfvdNz-kE)</p>
+<p>(click this picture to watch a video [YouTube](https://www.youtube.com/watch?v=-jAfvdNz-kE) | [B站](https://www.bilibili.com/video/BV1cJ411C7NR)</p>
 
 ![PNG](./03_Pictures/CompetitionScene/mmexport1544341557630.jpeg) 
 
