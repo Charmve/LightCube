@@ -27,7 +27,7 @@
 
 ![PNG](./03_Pictures/CompetitionScene/mmexport1544341557630.jpeg) 
 
-![PNG](./03_Pictures/CompetitionScene/Light-Cube_completed.jpg)
+![PNG](./03_Pictures/LightCubePictures/Light-Cube_completed.jpg)
 
 ![PNG](./03_Pictures/CompetitionScene/mmexport1544416914509.jpeg) 
 
