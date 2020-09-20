@@ -1,6 +1,6 @@
 # -Design of a 3D Dynamic Display System Based on Voice Control-
 <br>
-<p align="center"><font size=4><strong>一种基于语音控制的3D动态显示系统设计</strong></font></p>
+<p align="center"><font size="4"><strong>一种基于语音控制的3D动态显示系统设计</strong></font></p>
 <p align="center"><a href="https://charmve.github.io/" target="_blank">张 伟</a><br>
 扬州大学 物理科学与技术学院，江苏扬州 225000）</p>
 
@@ -10,7 +10,7 @@
 <p>关键词：光立方；语音控制；STM32；全彩显示；裸眼3D</p>
 
 <br>
-<p align="center"><font size=4><strong><strong>Design of a 3D Dynamic Display System Based on Voice Control</strong></font></p>
+<p align="center"><font size="4"><strong><strong>Design of a 3D Dynamic Display System Based on Voice Control</strong></font></p>
 <p align="center"><a href="https://charmve.github.io/" target="_blank">ZHANG Wei*</a> <br>
 *School of Physical Science and Technology, Yangzhou University, Yangzhou 225000, China </p>
 
@@ -23,8 +23,13 @@
 
 [<div align=center><img src="https://img-blog.csdnimg.cn/20200706154355286.png"></div>](https://www.youtube.com/watch?v=-jAfvdNz-kE)
 
-(click this picture to watch a video https://www.youtube.com/watch?v=-jAfvdNz-kE)
+<p>(click this picture to watch a video https://www.youtube.com/watch?v=-jAfvdNz-kE)</p>
 
+![PNG](./03_Pictures/CompetitionScene/mmexport1544341557630.jpeg) 
+
+![PNG](./03_Pictures/CompetitionScene/Light-Cube_completed.jpg)
+
+![PNG](./03_Pictures/CompetitionScene/mmexport1544416914509.jpeg) 
 
 <br>
 
