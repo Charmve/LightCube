@@ -23,7 +23,8 @@
 
 [<div align=center><img src="https://img-blog.csdnimg.cn/20200706154355286.png"></div>](https://www.youtube.com/watch?v=-jAfvdNz-kE)
 
-<p>(click this picture to watch a video [YouTube](https://www.youtube.com/watch?v=-jAfvdNz-kE) | [B站](https://www.bilibili.com/video/BV1cJ411C7NR)</p>
+<p>(click this picture to watch a video</p>
+<p>[<a href="https://www.youtube.com/watch?v=-jAfvdNz-kE" target="_blank">YouTube</a>] | [<a href="https://www.bilibili.com/video/BV1cJ411C7NR" target="_blank">B站</a>]</p>
 
 ![PNG](./03_Pictures/CompetitionScene/mmexport1544341557630.jpeg) 
 
