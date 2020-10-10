@@ -46,17 +46,15 @@
 
 <p>在此，我要非常感谢我的伙伴：沈福周，是他一直陪伴我把这个项目做下去，他在这个项目中也贡献了十分大的力量。在大学阶段遇到这样一位伙伴，我十分荣幸。同时，我也要感谢我的指导老师：陈磊老师，是他给我们提供指导和来自学校的资金支持。没有你们的帮助，是不能顺利完成这个项目的。PS：整个项目耗时半年，焊接整个光立方花了20多天 -_- （在此，也得感谢我的室友们，以及孙吉乔跟我们一起焊接！）</p>
 
-<p><strong>English Version:</strong> Here, I would like to thank my partner: Shen Fuzhou, who has been with me to continue this project, and he has also contributed a lot to this project. I am honored to meet such a partner in college. At the same time, I would also like to thank my instructor: Mr. Chen Lei, who provided us with guidance and financial support from the school. Without your help, this project cannot be successfully completed. PS: The whole project took half a year, and it took more than 20 days to weld the entire light cube -_- (Here, I have to thank my roommates and Sun Jiqiao for welding with us!)</p>
+<p><b>English Version:</b> Here, I would like to thank my partner: Shen Fuzhou, who has been with me to continue this project, and he has also contributed a lot to this project. I am honored to meet such a partner in college. At the same time, I would also like to thank my instructor: Mr. Chen Lei, who provided us with guidance and financial support from the school. Without your help, this project cannot be successfully completed. PS: The whole project took half a year, and it took more than 20 days to weld the entire light cube -_- (Here, I have to thank my roommates and Sun Jiqiao for welding with us!)</p>
 
 <br>
 
 ## Notification
 
-<p>本项目因为是基金项目，一方面为了公益性而开源，另一方面为了著作权所有而申请了<a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/06_Licences" target="_blank">国家专利保护📑</a>。</p>
+<p>本项目因为是基金项目，一方面为了公益性而开源，另一方面为了著作权所有而申请了<a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/06_Licences" target="_blank">国家专利保护📑</a>。</p> 如有商业用途，请与我联系。
 
-<p><strong>English Version:</strong>Because this project is a funded project, on the one hand, it is open source for public welfare, and on the other hand, it has applied for <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/06_Licences" target="_blank">national patents protection 📑</a> for copyright ownership.
-
-</strong> If you have any commercial use, please contact me.</p>
+<p><b>English Version:</b> Because this project is a funded project, on the one hand, it is open source for public welfare, and on the other hand, it has applied for <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/06_Licences" target="_blank">national patents protection 📑</a> for copyright ownership. If you have any commercial use, please contact me.</p>
 
 If you have any questions or idea, please let me know :email: yidazhang1@gmail.com
 
