@@ -1,4 +1,11 @@
 # -Design of a 3D Dynamic Display System Based on Voice Control-
+
+<p align="center">
+  <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/blob/master/02_Design%20Report/%E3%80%8A%E5%9F%BA%E4%BA%8EFPGA%E7%9A%84%E6%99%BA%E8%83%BD%E8%AF%AD%E9%9F%B33D%E5%8A%A8%E6%80%81%E6%98%BE%E7%A4%BA%E7%B3%BB%E7%BB%9F%C2%B7%E8%AE%BE%E8%AE%A1%E6%8A%A5%E5%91%8A%E3%80%8B.pdf"><img src="https://img.shields.io/badge/-Report-blue" alt="Report"></a>
+  <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/01_LightCube-Projects/01_LightCube"><img src="https://img.shields.io/badge/-Code-green" alt="Code"></a>
+  <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/06_Licences"><img src="https://img.shields.io/badge/-Licence-red" alt="Chinese Version"></a>
+</p>
+
 <br>
 <p align="center"><font size="4"><strong>一种基于语音控制的3D动态显示系统设计</strong></font></p>
 <p align="center"><a href="https://charmve.github.io/" target="_blank">张 伟</a><br>
@@ -33,4 +40,36 @@
 ![PNG](./03_Pictures/CompetitionScene/mmexport1544416914509.jpeg) 
 
 <br>
+<br>
+
+## Acknowledgements
+
+<p>在此，我要非常感谢我的伙伴：沈福周，是他一直陪伴我把这个项目做下去，他在这个项目中也贡献了十分大的力量。在大学阶段遇到这样一位伙伴，我十分荣幸。同时，我也要感谢我的指导老师：陈磊老师，是他给我们提供指导和来自学校的资金支持。没有你们的帮助，是不能顺利完成这个项目的。PS：整个项目耗时半年，焊接整个光立方花了20多天 -_- （在此，也得感谢我的室友们，以及孙吉乔跟我们一起焊接！）</p>
+
+<p><strong>English Version:</strong> Here, I would like to thank my partner: Shen Fuzhou, who has been with me to continue this project, and he has also contributed a lot to this project. I am honored to meet such a partner in college. At the same time, I would also like to thank my instructor: Mr. Chen Lei, who provided us with guidance and financial support from the school. Without your help, this project cannot be successfully completed. PS: The whole project took half a year, and it took more than 20 days to weld the entire light cube -_- (Here, I have to thank my roommates and Sun Jiqiao for welding with us!)</p>
+
+<br>
+
+## Notification
+
+<p>本项目因为是基金项目，一方面为了公益性而开源，另一方面为了著作权所有而申请了<a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/06_Licences" target="_blank">国家专利保护📑</a>。</p>
+
+<p><strong>English Version:</strong>Because this project is a funded project, on the one hand, it is open source for public welfare, and on the other hand, it has applied for <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/06_Licences" target="_blank">national patents protection 📑</a> for copyright ownership.
+
+</strong> If you have any commercial use, please contact me.</p>
+
+If you have any questions or idea, please let me know :email: yidazhang1@gmail.com
+
+<br>
+* <i>Update by Sep 27，2020 @<a href="https://github.com/Charmve" target="_blank">Charmve</a>, 
+    <a class="github-button"
+        href="https://github.com/Charmve/Surface-Defect-Detection"
+        data-icon="octicon-star" data-show-count="true"
+        aria-label="Star Charmve/Surface-Defect-Detection on GitHub">Star</a> 
+    and 
+    <a class="github-button"
+        href="https://github.com/Charmve/Surface-Defect-Detection/fork"
+        data-icon="octicon-repo-forked" data-show-count="true"
+        aria-label="Fork Charmve/Surface-Defect-Detection on GitHub">Fork</a>
+</i>
 
