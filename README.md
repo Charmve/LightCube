@@ -28,10 +28,10 @@
 
 <br>
 
-[<div align=center><img src="https://img-blog.csdnimg.cn/20200706154355286.png"></div>](https://www.youtube.com/watch?v=-jAfvdNz-kE)
+[<div align="center"><img src="https://img-blog.csdnimg.cn/20200706154355286.png"></div>](https://www.youtube.com/watch?v=-jAfvdNz-kE)
 
-<p>(click this picture to watch a video</p>
-<p>[<a href="https://www.youtube.com/watch?v=-jAfvdNz-kE" target="_blank">YouTube</a>] | [<a href="https://www.bilibili.com/video/BV1cJ411C7NR" target="_blank">B站</a>]</p>
+<p align="center">(click this picture to watch a video)</p>
+<p><a href="https://www.youtube.com/watch?v=-jAfvdNz-kE" target="_blank"><img src="https://img.shields.io/badge/Video-YouTube-green" alt="video"></a>  <a href="https://www.bilibili.com/video/BV1cJ411C7NR" target="_blank"><img src="https://img.shields.io/badge/Video-B站-green" alt="video"></a></p>
 
 ![PNG](./03_Pictures/CompetitionScene/mmexport1544341557630.jpeg) 
 
