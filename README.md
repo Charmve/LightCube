@@ -17,7 +17,7 @@
 <p>关键词：光立方；语音控制；STM32；全彩显示；裸眼3D</p>
 
 <br>
-<p align="center"><font size="4"><strong><strong>Design of a 3D Dynamic Display System Based on Voice Control</strong></font></p>
+<p align="center"><font size="4"><strong>Design of a 3D Dynamic Display System Based on Voice Control</strong></font></p>
 <p align="center"><a href="https://charmve.github.io/" target="_blank">ZHANG Wei*</a> <br>
 *School of Physical Science and Technology, Yangzhou University, Yangzhou 225000, China </p>
 
@@ -52,7 +52,7 @@
 
 ## Notification
 
-<p>本项目因为是基金项目，一方面为了公益性而开源，另一方面为了著作权所有而申请了<a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/06_Licences" target="_blank">国家专利保护📑</a>。</p> 如有商业用途，请与我联系。
+<p>本项目因为是基金项目，一方面为了公益性而开源，另一方面为了著作权所有而申请了<a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/06_Licences" target="_blank">国家专利保护📑</a>。 如有商业用途，请与我联系。</p>
 
 <p><b>English Version:</b> Because this project is a funded project, on the one hand, it is open source for public welfare, and on the other hand, it has applied for <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/06_Licences" target="_blank">national patents protection 📑</a> for copyright ownership. If you have any commercial use, please contact me.</p>
 
