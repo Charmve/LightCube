@@ -35,7 +35,7 @@
 <p align="center"><a href="https://www.youtube.com/watch?v=-jAfvdNz-kE" target="_blank"><img src="https://img-blog.csdnimg.cn/20200706154355286.png"></a>
 <br>(click this picture to watch a video)</p>
 
-![PNG](./03_Pictures/LightCubePictures/Light-Cube_completed.jpg)
+<br>![PNG](./03_Pictures/LightCubePictures/Light-Cube_completed.jpg)
 
 ![PNG](./03_Pictures/CompetitionScene/mmexport1544416914509.jpeg) 
 
