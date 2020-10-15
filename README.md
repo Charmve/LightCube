@@ -8,6 +8,9 @@
 
 ![PNG](./03_Pictures/CompetitionScene/mmexport1544341557630.jpeg) 
 
+<p align="center">(click this picture to watch a video)</p>
+<p align="center"><a href="https://www.youtube.com/watch?v=-jAfvdNz-kE" target="_blank"><img src="https://img.shields.io/badge/Video-YouTube-green" alt="video"></a>  <a href="https://www.bilibili.com/video/BV1cJ411C7NR" target="_blank"><img src="https://img.shields.io/badge/Video-B站-red" alt="video"></a></p>
+
 <br>
 <p align="center"><font size="4"><strong>一种基于语音控制的3D动态显示系统设计</strong></font></p>
 <p align="center"><a href="https://charmve.github.io/" target="_blank">张 伟</a><br>
@@ -32,8 +35,6 @@
 
 [<div align="center"><img src="https://img-blog.csdnimg.cn/20200706154355286.png"></div>](https://www.youtube.com/watch?v=-jAfvdNz-kE)
 
-<p align="center">(click this picture to watch a video)</p>
-<p align="center"><a href="https://www.youtube.com/watch?v=-jAfvdNz-kE" target="_blank"><img src="https://img.shields.io/badge/Video-YouTube-green" alt="video"></a>  <a href="https://www.bilibili.com/video/BV1cJ411C7NR" target="_blank"><img src="https://img.shields.io/badge/Video-B站-red" alt="video"></a></p>
 
 ![PNG](./03_Pictures/LightCubePictures/Light-Cube_completed.jpg)
 
