@@ -56,6 +56,20 @@
 
 If you have any questions or idea, please let me know :email: yidazhang1@gmail.com
 
+
+## Citation
+Use this bibtex to cite this repository:
+```
+@misc{LightCube,
+  title={A Design of 3D Dynamic Display System Based on Voice Control},
+  author={Charmve},
+  year={2019.11},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/Charmve/LightCube-A-Design-of-3D-Dynamic-Display-System-Based-on-Voice-Control}},
+}
+```
+
 <br>
 * <i>Update by Sep 27，2020 @<a href="https://github.com/Charmve" target="_blank">Charmve</a>, 
     <a class="github-button"
