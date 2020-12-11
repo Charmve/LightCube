@@ -15,4 +15,4 @@ Actual behaviour
 - Tell us what happens instead
 
 <br>
-<b>Do not forget to attach the ``version No.`` of realse.</b>
+<b>Do not forget to attach the ==version No.== of realse.</b>
