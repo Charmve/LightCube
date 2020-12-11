@@ -21,10 +21,10 @@
 TX--PB6
 RX--PB7
 
-SCK					PB13
+SCK				PB13
 MOSI				PB15
 MISO				PB14
-CS					PB11
+CS				PB11
 ```
 
 > !!!!!!!!!!!!读内存卡一定要5V!!!!!!!!!!!!
