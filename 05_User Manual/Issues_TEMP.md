@@ -1,7 +1,6 @@
 ## Issues Template
 
-
-Steps to reproduce
+### Steps to reproduce
 1.
 2.
 3.
