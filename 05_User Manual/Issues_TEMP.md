@@ -5,12 +5,14 @@
 2.
 3.
 
-- Expected behaviour
+<br>
+Expected behaviour
 
-Tell us what you expect should happen
+- Tell us what you expect should happen
 
-- Actual behaviour
+Actual behaviour
 
-Tell us what happens instead
+- Tell us what happens instead
 
+<br>
 <b>Do not forget to attach ``the version No. of realse``.</b>
