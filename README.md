@@ -12,7 +12,7 @@
 
 <br>
 <p align="center">
-  ## <font size="4"><strong>一种基于语音控制的3D动态显示系统设计</strong></font>
+## 一种基于语音控制的3D动态显示系统设计<font size="4"><strong></strong></font>
 </p>
 <p align="center"><a href="https://charmve.github.io/" target="_blank">张 伟</a><br>
 扬州大学 物理科学与技术学院，江苏扬州 225000）</p>
@@ -24,7 +24,7 @@
 
 <br>
 <p align="center">
- ## <font size="4"><strong>Design of a 3D Dynamic Display System Based on Voice Control</strong></font>
+## <font size="4"><strong>Design of a 3D Dynamic Display System Based on Voice Control</strong></font>
 </p>
 <p align="center"><a href="https://charmve.github.io/" target="_blank">ZHANG Wei*</a> <br>
 *School of Physical Science and Technology, Yangzhou University, Yangzhou 225000, China </p>
