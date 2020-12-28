@@ -12,7 +12,7 @@
 
 <br>
 
-<h2 align="center"> 一种基于语音控制的3D动态显示系统设计</h2>
+<h3 align="center"> 一种基于语音控制的3D动态显示系统设计</h3>
 
 <p align="center"><a href="https://charmve.github.io/" target="_blank">张 伟</a><br>
 扬州大学 物理科学与技术学院，江苏扬州 225000）</p>
@@ -23,7 +23,7 @@
 <p><b>关键词：</b>光立方；语音控制；STM32；全彩显示；裸眼3D</p>
 
 <br>
-<h2 align="center">Design of a 3D Dynamic Display System Based on Voice Control</h2>
+<h3 align="center">Design of a 3D Dynamic Display System Based on Voice Control</h3>
 
 <p align="center"><a href="https://charmve.github.io/" target="_blank">ZHANG Wei*</a> <br>
 *School of Physical Science and Technology, Yangzhou University, Yangzhou 225000, China </p>
