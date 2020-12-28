@@ -1,4 +1,4 @@
-# LightCube<br>A 3D Dynamic Display System Based on Voice Control
+# LightCube 💠<br>A 3D Dynamic Display System Based on Voice Control
 
 <p align="right">
   <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/blob/master/02_Design%20Report/%E3%80%8A%E5%9F%BA%E4%BA%8EFPGA%E7%9A%84%E6%99%BA%E8%83%BD%E8%AF%AD%E9%9F%B33D%E5%8A%A8%E6%80%81%E6%98%BE%E7%A4%BA%E7%B3%BB%E7%BB%9F%C2%B7%E8%AE%BE%E8%AE%A1%E6%8A%A5%E5%91%8A%E3%80%8B.pdf" target="_blank"><img src="https://img.shields.io/badge/-Report-blue" alt="Report"></a>
@@ -6,7 +6,7 @@
   <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/06_Licences" target="_blank"><img src="https://img.shields.io/badge/-Licence-red" alt="Chinese Version"></a>
 </p>
 
-![PNG](./03_Pictures/CompetitionScene/mmexport1544341557630.jpeg) 
+[![PNG](./03_Pictures/CompetitionScene/mmexport1544341557630.jpeg)](https://www.bilibili.com/video/BV1cJ411C7NR)
 
 <p align="center"><a href="https://www.youtube.com/watch?v=-jAfvdNz-kE" target="_blank"><img src="https://img.shields.io/badge/Video-YouTube-green" alt="video"></a>  <a href="https://www.bilibili.com/video/BV1cJ411C7NR" target="_blank"><img src="https://img.shields.io/badge/Video-B站-red" alt="video"></a></p>
 
