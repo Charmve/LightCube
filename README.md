@@ -11,9 +11,9 @@
 <p align="center"><a href="https://www.youtube.com/watch?v=-jAfvdNz-kE" target="_blank"><img src="https://img.shields.io/badge/Video-YouTube-green" alt="video"></a>  <a href="https://www.bilibili.com/video/BV1cJ411C7NR" target="_blank"><img src="https://img.shields.io/badge/Video-B站-red" alt="video"></a></p>
 
 <br>
-<p align="center">
-## 一种基于语音控制的3D动态显示系统设计<font size="4"><strong></strong></font>
-</p>
+
+## <center>一种基于语音控制的3D动态显示系统设计</center>
+
 <p align="center"><a href="https://charmve.github.io/" target="_blank">张 伟</a><br>
 扬州大学 物理科学与技术学院，江苏扬州 225000）</p>
 
