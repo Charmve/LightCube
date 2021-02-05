@@ -44,6 +44,41 @@
 
 <br>
 
+## Table of Contents
+- []()
+
+## Quick Start
+<p align="center">
+  <img src="03_Pictures/LightCubePictures/System Block.png" alt="System Block">
+</p>
+More details can be seen at design report, click [HERE](https://github.com/Charmve/LightCube/blob/master/02_Design%20Report/《基于FPGA的智能语音3D动态显示系统·设计报告》.pdf).
+
+<b>Step 1</b>. Prepare the required software and hardware components
+- software: Keil-ARM, ([download](https://www.keil.com/download/product/))
+- hardware
+  - STM32F407 development board or minimum system
+  - some essential Dupont line
+  - 12x12x12 LEDs, iron wire (350mm)
+  - JLink 
+  - 12V Power Adapter
+  - [PCB](01_LightCube-Projects/04_Data%20Sheet%26Circuit%20Schematic), [physical reference](https://github.com/Charmve/LightCube/tree/master/03_Pictures/LightCubePictures)
+  
+<b>Step 2</b>. download this repo
+In Terminal, run 
+```
+git clone https://github.com/Charmve/LightCube.git
+```
+or [Download ZIP](https://github.com/Charmve/LightCube/archive/master.zip)
+
+<b>Step 3</b>. Download code to STM32 flash memory
+<p align="center">
+  <h3>✨ Awesome JOB! ✨</h3>
+</p>
+
+## Maintainers
+
+@[Charmve](https://github.com/Charmve), @Fuzhou.
+
 ## Acknowledgements
 
 <p>在此，我要非常感谢我的伙伴：沈福周，是他一直陪伴我把这个项目做下去，他在这个项目中也贡献了十分大的力量。在大学阶段遇到这样一位伙伴，我十分荣幸。同时，我也要感谢我的指导老师：陈磊老师，是他给我们提供指导和来自学校的资金支持。没有你们的帮助，是不能顺利完成这个项目的。PS：整个项目耗时半年，焊接整个光立方花了20多天 -_- （在此，也得感谢我的室友们，以及孙吉乔跟我们一起焊接！）</p>
