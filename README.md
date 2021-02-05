@@ -7,6 +7,14 @@
 
 <p align="center"><a href="https://www.youtube.com/watch?v=-jAfvdNz-kE" target="_blank"><img src="https://img.shields.io/badge/Video-YouTube-green" alt="video-YouTube"></a>  <a href="https://www.bilibili.com/video/BV1cJ411C7NR" target="_blank"><img src="https://img.shields.io/badge/Video-B站-red" alt="video-B站"></a></p>
 
+## Table of Contents
+- [LightCube](#lightcube-a-3d-dynamic-display-system-based-on-voice-control)
+- [Abstract](#-一种基于语音控制的3d动态显示系统设计)
+- [Quick Start](#quick-start)
+- [Acknowledgements](#acknowledgements)
+- [Notification](#notification)
+- [Citation](#citation)
+
 <br>
 
 <h3 align="center"> 一种基于语音控制的3D动态显示系统设计</h3>
@@ -40,14 +48,6 @@
 ![PNG](./03_Pictures/CompetitionScene/mmexport1544416914509.jpeg) 
 
 <br>
-
-## Table of Contents
-- [LightCube](#lightcube-a-3d-dynamic-display-system-based-on-voice-control)
-- [Abstract](#-一种基于语音控制的3d动态显示系统设计)
-- [Quick Start](#quick-start)
-- [Acknowledgements](#acknowledgements)
-- [Notification](#notification)
-- [Citation](#citation)
 
 ## Quick Start
 <p align="center">
