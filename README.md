@@ -10,9 +10,10 @@
 ## Table of Contents
 - [LightCube](#lightcube-a-3d-dynamic-display-system-based-on-voice-control)
 - [Abstract](#-一种基于语音控制的3d动态显示系统设计)
+- [Browsing](#browsing)
 - [Quick Start](#quick-start)
 - [Acknowledgements](#acknowledgements)
-- [Notification](#notification)
+- [License](#license)
 - [Citation](#citation)
 
 <h3 align="center"> 一种基于语音控制的3D动态显示系统设计</h3>
@@ -42,6 +43,25 @@
 <br>(<b>click</b> this picture to watch a video)</p>
 
 <br>
+
+## Browsing
+If you are browsing around the source tree, and want to see some of the major functional chunks, here are a few pointers:
+- ``01_LightCube-Project``: CORE code folder, which cantains code for all this repo, including:
+  - ``01_LightCube``: STM32F407 firmware
+    - ``/LED_CUBE/CORE``: AMR Cortex M4 core
+    - ``/LED_CUBE/FWLIB``: stm32f4xx firmware library
+    - ``/LED_CUBE/HARDWARE/LED_CUBE``: light cube led driver
+    - ``/LED_CUBE/HARDWARE/SD``: SD card peripheral driver which cantains LightCube display pattern data
+    - ``/LED_CUBE/HARDWARE/SM12126``: SM12126 peripheral driver, serial to parallel
+    - ``/LED_CUBE/HARDWARE/TFCard``: TFCard peripheral driver, which cantains some audio files
+    - ``/LED_CUBE/OBJ``: object files
+    - ``/LED_CUBE/SYSTEM``: stm32f4xx system resources, including spi, timer, delay, sys, usart
+    - ``/LED_CUBE/USER``: debug files in Keil
+    - ``/LED_CUBE/fatfs``: SPI_MSD0_Driver.c
+  - ``02_SD文件(STM32)/控制底板SD.rar/``: cantains LightCube display pattern data
+  - ``02_SD文件(STM32)/语音模块SD/``: cantains some audio files
+  - ``04_Data Sheet&Circuit Schematic``: cantains data sheet and PCB
+  - ``05_LDV5语音识别模块-配套资料``
 
 ## Quick Start
 <p align="center">
@@ -88,7 +108,7 @@ or [Download ZIP](https://github.com/Charmve/LightCube/archive/master.zip)
 
 <p><b>English Version:</b> Here, I would like to thank my partner: Shen Fuzhou, who has been with me to continue this project, and he has also contributed a lot to this project. I am honored to meet such a partner in college. At the same time, I would also like to thank my instructor: Mr. Chen Lei, who provided us with guidance and financial support from the school. Without your help, this project cannot be successfully completed. PS: The whole project took half a year, and it took more than 20 days to weld the entire light cube -_- (Here, I have to thank my roommates and Sun Jiqiao for welding with us!)</p>
 
-## Notification
+## License
 
 <p>本项目因为是基金项目，一方面为了公益性而开源，另一方面为了著作权所有而申请了<a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/06_Licences" target="_blank">国家专利保护📑</a>。 如有商业用途，请与我联系。</p>
 
