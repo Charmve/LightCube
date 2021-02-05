@@ -1,14 +1,11 @@
 # LightCube 💠<br>A 3D Dynamic Display System Based on Voice Control
-
 <p align="left">
-  <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/blob/master/02_Design%20Report/%E3%80%8A%E5%9F%BA%E4%BA%8EFPGA%E7%9A%84%E6%99%BA%E8%83%BD%E8%AF%AD%E9%9F%B33D%E5%8A%A8%E6%80%81%E6%98%BE%E7%A4%BA%E7%B3%BB%E7%BB%9F%C2%B7%E8%AE%BE%E8%AE%A1%E6%8A%A5%E5%91%8A%E3%80%8B.pdf" target="_blank"><img src="https://img.shields.io/badge/Report-PDF-blue" alt="Report"></a>
-  <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/01_LightCube-Projects/01_LightCube" target="_blank"><img src="https://img.shields.io/badge/GitHub-Code-green" alt="Code"></a>
-  <a href="https://github.com/Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control/tree/master/06_Licences" target="_blank"><img src="https://img.shields.io/badge/-Rights-red" alt="Rights Received"></a>
+<a href="https://charmve.github.io/doc/papers/一种基于语音控制的3D动态显示系统设计.pdf" target="_blank">[Paper (Chinese)]</a> | <a href="https://charmve.github.io/doc/src/作品海报Poster.pdf" target="_blank">[Poster]</a> | <a href="https://charmve.github.io/doc/src/基于FPGA的智能语音3D动态显示系统·Slides.pdf" target="_blank">[Slides]</a> | <a href="https://charmve.github.io/doc/src/基于FPGA的智能语音3D动态显示系统·Slides.pdf" target="_blank">[Patents]</a> | <a href="https://charmve.github.io/doc/src/基于FPGA的智能语音3D动态显示系统·Slides.pdf" target="_blank">[Slides]</a>
 </p>
 
-[![PNG](./03_Pictures/CompetitionScene/mmexport1544341557630.jpeg)](https://www.bilibili.com/video/BV1cJ411C7NR)
+[![LightCube](./03_Pictures/CompetitionScene/mmexport1544341557630.jpeg)](https://www.bilibili.com/video/BV1cJ411C7NR)
 
-<p align="center"><a href="https://www.youtube.com/watch?v=-jAfvdNz-kE" target="_blank"><img src="https://img.shields.io/badge/Video-YouTube-green" alt="video"></a>  <a href="https://www.bilibili.com/video/BV1cJ411C7NR" target="_blank"><img src="https://img.shields.io/badge/Video-B站-red" alt="video"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=-jAfvdNz-kE" target="_blank"><img src="https://img.shields.io/badge/Video-YouTube-green" alt="video-YouTube"></a>  <a href="https://www.bilibili.com/video/BV1cJ411C7NR" target="_blank"><img src="https://img.shields.io/badge/Video-B站-red" alt="video-B站"></a></p>
 
 <br>
 
@@ -45,7 +42,12 @@
 <br>
 
 ## Table of Contents
-- []()
+- [LightCube](#lightcube-a-3d-dynamic-display-system-based-on-voice-control)
+- [Abstract](#-一种基于语音控制的3d动态显示系统设计)
+- [Quick Start](#quick-start)
+- [Acknowledgements](#acknowledgements)
+- [Notification](#notification)
+- [Citation](#citation)
 
 ## Quick Start
 <p align="center">
@@ -109,8 +111,6 @@ Use this bibtex to cite this repository:
   howpublished={\url{https://github.com/Charmve/LightCube-A-Design-of-3D-Dynamic-Display-System-Based-on-Voice-Control}},
 }
 ```
-<a href="https://charmve.github.io/doc/papers/一种基于语音控制的3D动态显示系统设计.pdf" target="_blank">[Paper (Chinese)]</a> | <a href="https://charmve.github.io/doc/src/作品海报Poster.pdf" target="_blank">[Poster]</a> | <a href="https://charmve.github.io/doc/src/基于FPGA的智能语音3D动态显示系统·Slides.pdf" target="_blank">[Slides]</a> | <a href="https://charmve.github.io/doc/src/基于FPGA的智能语音3D动态显示系统·Slides.pdf" target="_blank">[Patents]</a> | <a href="https://charmve.github.io/doc/src/基于FPGA的智能语音3D动态显示系统·Slides.pdf" target="_blank">[Slides]</a>
-
 
 
 <br>
