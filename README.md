@@ -84,6 +84,7 @@ More details can be seen at design report, click [HERE](https://github.com/Charm
   - [PCB](01_LightCube-Projects/04_Data%20Sheet%26Circuit%20Schematic), [physical reference](https://github.com/Charmve/LightCube/tree/master/03_Pictures/LightCubePictures)
   
 <b>Step 2</b>. download this repo
+
 In Terminal, run 
 ```
 git clone https://github.com/Charmve/LightCube.git
