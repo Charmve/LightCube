@@ -4,7 +4,7 @@
 <p>
 MDK-ARM
 <br>Complete the following form to download the Keil software development tools.
-<br>[Download](https://www.keil.com/download/product/)
+[Download](https://www.keil.com/download/product/)
 </p>
 
 ## CHANGELOG
