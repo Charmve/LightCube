@@ -41,9 +41,6 @@
 <p align="center"><a href="https://www.youtube.com/watch?v=-jAfvdNz-kE" target="_blank"><img src="https://img-blog.csdnimg.cn/20200706154355286.png"></a>
 <br>(<b>click</b> this picture to watch a video)</p>
 
-<br>![PNG](./03_Pictures/LightCubePictures/Light-Cube_completed.jpg)
-
-![PNG](./03_Pictures/CompetitionScene/mmexport1544416914509.jpeg) 
 
 <br>
 
@@ -77,6 +74,9 @@ or [Download ZIP](https://github.com/Charmve/LightCube/archive/master.zip)
 <b>Step 3</b>. Download code to STM32 flash memory
 
 <h3 align="center">✨ Awesome JOB! ✨</h3>
+<br>![PNG](./03_Pictures/LightCubePictures/Light-Cube_completed.jpg)
+
+![PNG](./03_Pictures/CompetitionScene/mmexport1544416914509.jpeg) 
 
 ## Maintainers
 
