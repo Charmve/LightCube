@@ -15,8 +15,6 @@
 - [Notification](#notification)
 - [Citation](#citation)
 
-<br>
-
 <h3 align="center"> 一种基于语音控制的3D动态显示系统设计</h3>
 
 <p align="center"><a href="https://charmve.github.io/" target="_blank">张 伟</a><br>
