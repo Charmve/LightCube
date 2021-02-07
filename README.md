@@ -100,9 +100,9 @@ the ``main.c`` is at ``./01_LightCube-Projects/01_LightCube/LED_CUBE/USER/main.c
 <p align="center">
   <img src="/02_Design%20Report/setting.png" alt="System Setting">
   <br> Figure 2. Setting block
-  <br><img src="/02_Design%20Report/option-device.png" alt="device style">
+  <br><br><img src="/02_Design%20Report/option-device.png" alt="device style">
   <br> Figure 3. Set the device style
-  <br><img src="/02_Design%20Report/option-debug.png" alt="debuger">
+  <br><br><img src="/02_Design%20Report/option-debug.png" alt="debuger">
   <br> Figure 4. Set the debuger 
 </p>
 
