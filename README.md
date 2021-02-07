@@ -83,7 +83,7 @@ More details can be seen at design report, click [HERE](https://github.com/Charm
   - 12V Power Adapter
   - [PCB](01_LightCube-Projects/04_Data%20Sheet%26Circuit%20Schematic), [physical reference](https://github.com/Charmve/LightCube/tree/master/03_Pictures/LightCubePictures)
   
-👉 <b>Step 2</b>. download this repo
+👉 <b>Step 2</b>. Download this repo
 
 In Terminal, run 
 ```
@@ -91,7 +91,22 @@ git clone https://github.com/Charmve/LightCube.git
 ```
 or [Download ZIP](https://github.com/Charmve/LightCube/archive/master.zip)
 
-👉 <b>Step 3</b>. Download code to STM32 flash memory
+Then, open the project with Keil5-ARM ``./01_LightCube-Projects/01_LightCube/LED_CUBE/USER/Template.uvprojx``.
+
+👉 <b>Step 3</b>. Set the device style in ``STM32F407XX`` and the debuger in ``ST-Link``, compile to produce object file.
+
+the ``main.c`` is at ``./01_LightCube-Projects/01_LightCube/LED_CUBE/USER/main.c``.
+
+<p align="center">
+  <img src="/02_Design%20Report/setting.png" alt="System Setting">
+  <br> Figure 2. Setting block
+  <br><img src="/02_Design%20Report/option-device.png" alt="device style">
+  <br> Figure 3. Set the device style
+  <br><img src="/02_Design%20Report/option-debug.png" alt="debuger">
+  <br> Figure 4. Set the debuger 
+</p>
+
+👉 <b>Step 4</b>. Download code to STM32 flash memory
 
 <h3 align="center">✨ Awesome JOB! ✨</h3>
 
