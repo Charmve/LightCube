@@ -73,7 +73,7 @@ More details can be seen at design report, click [HERE](https://github.com/Charm
 
 <br>
 
-<b>Step 1</b>. Prepare the required software and hardware components
+👉 <b>Step 1</b>. Prepare the required software and hardware components
 - software: Keil-ARM, ([download](https://www.keil.com/download/product/))
 - hardware
   - STM32F407 development board or minimum system
@@ -83,7 +83,7 @@ More details can be seen at design report, click [HERE](https://github.com/Charm
   - 12V Power Adapter
   - [PCB](01_LightCube-Projects/04_Data%20Sheet%26Circuit%20Schematic), [physical reference](https://github.com/Charmve/LightCube/tree/master/03_Pictures/LightCubePictures)
   
-<b>Step 2</b>. download this repo
+👉 <b>Step 2</b>. download this repo
 
 In Terminal, run 
 ```
@@ -91,7 +91,7 @@ git clone https://github.com/Charmve/LightCube.git
 ```
 or [Download ZIP](https://github.com/Charmve/LightCube/archive/master.zip)
 
-<b>Step 3</b>. Download code to STM32 flash memory
+👉 <b>Step 3</b>. Download code to STM32 flash memory
 
 <h3 align="center">✨ Awesome JOB! ✨</h3>
 
