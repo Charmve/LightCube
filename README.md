@@ -5,7 +5,7 @@
 
 [![LightCube](./03_Pictures/CompetitionScene/mmexport1544341557630.jpeg)](https://www.bilibili.com/video/BV1cJ411C7NR)
 
-<p align="center"><a href="https://www.youtube.com/watch?v=-jAfvdNz-kE" target="_blank"><img src="https://img.shields.io/badge/Video-YouTube-green" alt="video-YouTube"></a>  <a href="https://www.bilibili.com/video/BV1cJ411C7NR" target="_blank"><img src="https://img.shields.io/badge/Video-B站-red" alt="video-B站"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=-jAfvdNz-kE" target="_blank"><img src="https://img.shields.io/badge/🎥-YouTube-green" alt="video-YouTube"></a>  <a href="https://www.bilibili.com/video/BV1cJ411C7NR" target="_blank"><img src="https://img.shields.io/badge/🎥-B站-red" alt="video-B站"></a></p>
 
 ## Table of Contents
 - [LightCube](#lightcube-a-3d-dynamic-display-system-based-on-voice-control)
