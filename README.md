@@ -150,13 +150,13 @@ Use this bibtex to cite this repository:
 <br>
 * <i>Update by Sep 27，2020 @<a href="https://github.com/Charmve" target="_blank">Charmve</a>, 
     <a class="github-button"
-        href="https://github.com/Charmve/Surface-Defect-Detection"
+        href="https://github.com/Charmve/LightCube"
         data-icon="octicon-star" data-show-count="true"
-        aria-label="Star Charmve/Surface-Defect-Detection on GitHub">Star</a> 
+        aria-label="Star Charmve/LightCube on GitHub">Star</a> 
     and 
     <a class="github-button"
-        href="https://github.com/Charmve/Surface-Defect-Detection/fork"
+        href="https://github.com/Charmve/LightCube/fork"
         data-icon="octicon-repo-forked" data-show-count="true"
-        aria-label="Fork Charmve/Surface-Defect-Detection on GitHub">Fork</a>
+        aria-label="Fork Charmve/LightCube on GitHub">Fork</a>
 </i>
 
