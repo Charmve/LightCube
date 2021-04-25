@@ -46,22 +46,22 @@
 
 ## Browsing
 If you are browsing around the source tree, and want to see some of the major functional chunks, here are a few pointers:
-- ``01_LightCube-Project``: CORE code folder, which cantains code for all this repo, including:
-  - ``01_LightCube``: STM32F407 firmware
-    - ``/LED_CUBE/CORE``: AMR Cortex M4 core
-    - ``/LED_CUBE/FWLIB``: stm32f4xx firmware library
-    - ``/LED_CUBE/HARDWARE/LED_CUBE``: light cube led driver
-    - ``/LED_CUBE/HARDWARE/SD``: SD card peripheral driver which cantains LightCube display pattern data
-    - ``/LED_CUBE/HARDWARE/SM12126``: SM12126 peripheral driver, serial to parallel
-    - ``/LED_CUBE/HARDWARE/TFCard``: TFCard peripheral driver, which cantains some audio files
-    - ``/LED_CUBE/OBJ``: object files
-    - ``/LED_CUBE/SYSTEM``: stm32f4xx system resources, including spi, timer, delay, sys, usart
-    - ``/LED_CUBE/USER``: debug files in Keil
-    - ``/LED_CUBE/fatfs``: SPI_MSD0_Driver.c
-  - ``02_SD文件(STM32)/控制底板SD.rar/``: cantains LightCube display pattern data
-  - ``02_SD文件(STM32)/语音模块SD/``: cantains some audio files
-  - ``04_Data Sheet&Circuit Schematic``: cantains data sheet and PCB
-  - ``05_LDV5语音识别模块-配套资料``
+- 📂 ``01_LightCube-Project``: CORE code folder, which cantains code for all this repo, including:
+  - 📂 ``01_LightCube``: STM32F407 firmware
+    - 📂 ``/LED_CUBE/CORE``: AMR Cortex M4 core
+    - 📂 ``/LED_CUBE/FWLIB``: stm32f4xx firmware library
+    - 📂 ``/LED_CUBE/HARDWARE/LED_CUBE``: light cube led driver
+    - 📂 ``/LED_CUBE/HARDWARE/SD``: SD card peripheral driver which cantains LightCube display pattern data
+    - 📂 ``/LED_CUBE/HARDWARE/SM12126``: SM12126 peripheral driver, serial to parallel
+    - 📂 ``/LED_CUBE/HARDWARE/TFCard``: TFCard peripheral driver, which cantains some audio files
+    - 📂 ``/LED_CUBE/OBJ``: object files
+    - 📂 ``/LED_CUBE/SYSTEM``: stm32f4xx system resources, including spi, timer, delay, sys, usart
+    - 📂 ``/LED_CUBE/USER``: debug files in Keil
+    - 📂 ``/LED_CUBE/fatfs``: SPI_MSD0_Driver.c
+  - 📂 ``02_SD文件(STM32)/控制底板SD.rar/``: cantains LightCube display pattern data
+  - 📂 ``02_SD文件(STM32)/语音模块SD/``: cantains some audio files
+  - 📂 ``04_Data Sheet&Circuit Schematic``: cantains data sheet and PCB
+  - 📂 ``05_LDV5语音识别模块-配套资料``
 
 ## Quick Start
 <p align="center">
