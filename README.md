@@ -146,17 +146,21 @@ Use this bibtex to cite this repository:
 }
 ```
 
+## 🚧 **My Related Work: ⬇️**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![EmotiomCube](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=EmotionCube)](https://github.com/Charmve/EmotionCube) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Practicum4ECE)](https://github.com/Charmve/Practicum4ECE)
+
+## :heart: Follow me or Sponsor me
+
+> You can find how to contact me in the right sidebar. You can follow me to find something more interesting.
+
+If you like ~~Charmve or me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Charmve Sponsors](https://charmve.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://charmve.github.io/sponsor.html](https://charmve.github.io/sponsor.html).
+
+<!--START_SECTION:sponsors-->
+<a href="https://charmve.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br>
-* <i>Update by Sep 27，2020 @<a href="https://github.com/Charmve" target="_blank">Charmve</a>, 
-    <a class="github-button"
-        href="https://github.com/Charmve/LightCube"
-        data-icon="octicon-star" data-show-count="true"
-        aria-label="Star Charmve/LightCube on GitHub">Star</a> 
-    and 
-    <a class="github-button"
-        href="https://github.com/Charmve/LightCube/fork"
-        data-icon="octicon-repo-forked" data-show-count="true"
-        aria-label="Fork Charmve/LightCube on GitHub">Fork</a>
-</i>
 
+---
+
+Code with :heart: & :coffee: By Charmve @ 2021
